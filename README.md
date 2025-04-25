@@ -1,7 +1,5 @@
 # lab_exercises
 
-Here’s the full translation of your exercises into English (with the same practical approach and tables):  
-
 ---
 
 ### **Basic Electronics Exercises: Resistor Circuits and Measurements**  
